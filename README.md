@@ -54,7 +54,7 @@ Follow these steps to install and use Insta-Cypher:
 
 1. **Clone the Repository**: Clone the Insta-Cypher repository from GitHub to your local machine.
    ```
-   git clone https://github.com/pralinkhaira/Insta-Cypher
+   git clone https://github.com/CyberVansh-coder/Cy-Instagram.git
    ```
 
 2. **Start Tor**: Run the Tor service in another terminal to ensure anonymous and secure connections.
